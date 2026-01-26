@@ -1,4 +1,4 @@
-## API CRUD usando Python, Flask e p Psycopg2
+## API CRUD usando Python, Flask e Psycopg2
 
 Os comandos que a API retorna são:
 /list_usuarios - Retorna a lista dos usuarios da database
