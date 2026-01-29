@@ -1,5 +1,8 @@
 ## API CRUD usando Python, Flask e Psycopg2
 
+Sistema de Reservas de Viagens
+API REST responsável por gerenciar usuários, destinos e reservas, permitindo criação, atualização, listagem e exclusão de dados, simulando o backend de uma plataforma de turismo.
+
 Os comandos que a API retorna são:
 /list_usuarios - Retorna a lista dos usuarios da database
 /list_reservas - As reservas feitas e armazenadas na database
