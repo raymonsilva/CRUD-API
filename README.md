@@ -12,4 +12,4 @@ Os comandos que a API retorna são:
 /delete_data - Remove registros da database
 
 # Techs usadas
-Python, Flask e Psycopg2 e Docker
+Python, Flask, Psycopg2 e Docker
